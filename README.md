@@ -1,1 +1,1 @@
-This is a Sudoku game that checks the characters you enter. Only the digits 1 to 9 will be visible. If you enter the wrong number into a certain field, that number will turn red.
+This is a code for Sudoku with implemented logic that generates valid Sudoku games. It also checks the characters you enter. The user will be able to enter the digits 1 to 9 only. If something else is entered, it will disappear. If you enter the wrong number into a certain field, that number will turn red.
